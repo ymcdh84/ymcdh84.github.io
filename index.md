@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 ---
 
 안녕하세요. 윤종현입니다.
