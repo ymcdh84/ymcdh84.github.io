@@ -18,8 +18,8 @@ layout: post
 - Front-end: React + TypeScript  
 - Back-end: Spring boot, PostgreSQL, Redis(session clustering)  
 ### GitHub
-- [우리동네 북클럽 Front-end][https://github.com/starrything/bookclub-front]  
-- [우리동네 북클럽 Back-end][https://github.com/starrything/bookclub-Back]  
+- [우리동네 북클럽 Front-end](https://github.com/starrything/bookclub-front)  
+- [우리동네 북클럽 Back-end](https://github.com/starrything/bookclub-Back)  
 
 ## 데이터 시각화 솔루션
 데이터 탐색을 위한 시각화 애플리케이션입니다. @2021
