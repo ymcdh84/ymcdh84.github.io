@@ -17,6 +17,7 @@ layout: post
 ### 기술 스택
 - Front-end: React + TypeScript  
 - Back-end: Spring boot, PostgreSQL, Redis(session clustering)  
+
 ### GitHub
 - [우리동네 북클럽 Front-end](https://github.com/starrything/bookclub-front)  
 - [우리동네 북클럽 Back-end](https://github.com/starrything/bookclub-Back)  
@@ -27,5 +28,6 @@ layout: post
 ### 기술 스택
 - Front-end: React  
 - Back-end: Spring boot, PostgreSQL, Redis(session clustering)  
+
 ### GitHub
 > 소스 정리 중입니다.
