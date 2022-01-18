@@ -2,7 +2,7 @@
 title: Portfolio
 author: Jonghyun Yoon
 date: 2022-01-18
-category: Jekyll
+category: Portfolio
 layout: post
 ---
 
