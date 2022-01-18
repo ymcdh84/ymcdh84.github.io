@@ -24,6 +24,7 @@ layout: post
 
 ## 데이터 시각화 솔루션
 데이터 탐색을 위한 시각화 애플리케이션입니다. @2021
+<br />
 (airbnb 에서 개발한 Apache Superset을 참고하여 개발하였습니다.)
 ### 기술 스택
 - Front-end: React  
