@@ -1,15 +1,15 @@
 # Configurations
 title:            About Me
-longtitle:        Jonghyun Yoon Gitbook
-author:           Jonghyun Yoon
-email:            starrything@gmail.com
+longtitle:        Daehan Choi Gitbook
+author:           Daehan Choi
+email:            ymcdh@naver.com
 description: >
   Build Jekyll site with the GitBook style. (forked from https://sighingnow.github.io/jekyll-gitbook)
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://starrything.github.io'
+url:              'https://ymcdh84.github.io'
 baseurl:          ''
 rss:              RSS
 
@@ -18,6 +18,12 @@ toc:
   h_min: 1
   h_max: 3
 
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+      
 # markdown render engine.
 markdown:         kramdown
 kramdown:
@@ -47,3 +53,4 @@ regenerate:       true
 plugins:
   - jekyll-feed
   - jemoji
+
