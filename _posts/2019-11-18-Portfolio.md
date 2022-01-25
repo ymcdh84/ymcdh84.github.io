@@ -1,12 +1,12 @@
 ---
-title: ILJIN CNS
+title: Portfolio
 author: Daehan Choi
 date: 2019-04-28
 category: Jekyll
 layout: post
 ---
 
-재직 기간 : 2019.11 ~ 재직중
+<!-- 재직 기간 : 2019.11 ~ 재직중 -->
 
 <!-- ```yaml
 toc:
